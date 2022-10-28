@@ -42,9 +42,9 @@
 
 .logo_place_header {
   background-image: url(../images/logo_place_header.svg);
-  position: absolute;  
+  position: absolute;
   top: 30px;
-  left: 64px; 
+  left: 64px;
   z-index: 2;
 } 
 
@@ -110,7 +110,7 @@
 
 .content {
   display: flex;
-  align-items: stretch ;
+  align-items: stretch;
   flex-direction: column;
   /* flex: 1; */
 }
@@ -203,7 +203,7 @@
 }
 
 .list {
-  list-style: none; 
+  list-style: none;
   margin: 0;
   padding: 0;
 }
