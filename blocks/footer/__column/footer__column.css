@@ -1,5 +1,4 @@
 .footer__column {
   display: flex;
   flex-direction: column;
-  border-color: #f2f2f2;
 }

@@ -1,5 +1,12 @@
+@import url(../vendor/normalize.css);
+
 /* PAGE */
 @import url(../blocks/page/page.css);
+
+/* Список */
+@import url(../blocks/list/list.css);
+/* Ссылка */
+@import url(../blocks/link/link.css);
 
 /* HEADER */
 
@@ -55,7 +62,7 @@
 @import url(../blocks/table/__cell/table__cell.css);
 @import url(../blocks/table/__heading/table__heading.css);
 @import url(../blocks/table/__text/table__text.css);
-@import url(../blocks/list/list.css);
+
 
 /* khan */
 @import url(../blocks/khan/khan.css);
@@ -81,7 +88,8 @@
 /* resources */
 @import url(../blocks/resources/resources.css);
 @import url(../blocks/resources/__logo-zone/resources__logo-zone.css);
-@import url(../blocks/resources/__logo/resources__logo.css);
+@import url(../blocks/resources/__link/resources__link.css);
+@import url(../blocks/resources/__logo/resouces__logo.css);
 
 
 /* FOOTER */

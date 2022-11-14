@@ -5,11 +5,4 @@
   position: absolute;
   top: 50%;
   right: 48px;
-  color: #2f80ed;
-  text-decoration: none;
-  transition: opacity ease 2s;
-}
-
-.feynman__link:hover {
-  opacity: .3;
 }
